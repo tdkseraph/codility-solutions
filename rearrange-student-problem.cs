@@ -28,7 +28,6 @@ namespace Codility
                     {
                         end = i;
                     }
-
             }
             
             if ((start >= 0) && (end >= 0))
